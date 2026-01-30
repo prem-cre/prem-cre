@@ -1,149 +1,185 @@
-\documentclass[a4paper,9pt]{article}
-\usepackage[margin=0.3in]{geometry}
-\usepackage{enumitem}
-\usepackage{hyperref}
-\usepackage{multicol}
-\usepackage{titlesec}
+<div align="center">
+  <h1>Prem Kumar Mahanty</h1>
+  <h3>Backend Engineer • Full‑Stack GenAI/ML Developer • Competitive Programmer</h3>
+  <p>
+    Computer Science student focused on building intelligent, production-ready systems — from scalable backend APIs and microservices
+    to agentic GenAI pipelines (RAG, MCP servers, verification, observability).
+  </p>
 
-\hypersetup{
-    colorlinks=true,
-    linkcolor=blue,
-    urlcolor=blue,
-    breaklinks=true
-}
+  <p>
+    <a href="mailto:mahantypremkumar2007@gmail.com">
+      <img src="https://img.shields.io/badge/Email-mahantypremkumar2007%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://www.linkedin.com/in/prem-kumar-mahanty-21b4aa317" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/prem-cre" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-prem--cre-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://leetcode.com/u/prem_code/" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-prem__code-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    </a>
+    <a href="https://www.codechef.com/users/prem_2007" target="_blank">
+      <img src="https://img.shields.io/badge/CodeChef-prem__2007-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+    </a>
+  </p>
 
-% Global setting to remove all extra space between list items
-\setlength{\parindent}{0pt}
-\setlist[itemize]{leftmargin=0.35cm, itemsep=0pt, topsep=0pt, parsep=0pt, partopsep=0pt}
-\renewcommand{\baselinestretch}{0.9}
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=prem-cre&style=for-the-badge&color=0e75b6" alt="Profile Views" />
+  </p>
+</div>
 
-\begin{document}
-\small
+---
 
-% Header compressed to save space
-{\centering
-    \Large \textbf{Prem Kumar Mahanty} \\
-    \vspace{1pt}
-    \normalsize GEN AI Developer \\
-    \footnotesize
-    \vspace{1pt}
-    \href{https://www.linkedin.com/in/prem-kumar-mahanty-21b4aa317}{\underline{LinkedIn}} \,|\, 
-    \href{https://github.com/prem-cre}{\underline{GitHub}} \,|\, 
-    \href{https://leetcode.com/u/prem_code/}{\underline{LeetCode}} \,|\, 
-    \href{https://www.codechef.com/users/prem_2007}{\underline{CodeChef}} \\
-    \vspace{1pt}
-    \textbf{Location:} Visakhapatnam, Andhra Pradesh, India \,|\, 
-    \textbf{Phone:} +91 9492975838 \,|\, 
-    \textbf{Email:} \href{mailto:mahantypremkumar2007@gmail.com}{\underline{mahantypremkumar2007@gmail.com}} \par
-}
+## Snapshot
 
-\vspace{-0.5em}
+- 📍 **Visakhapatnam, India**
+- 🧠 Interests: **GenAI systems**, **RAG + Verification**, **system design**, **microservices**, **competitive programming**
+- 🤝 Open to: **Internships**, **backend / GenAI engineering roles**, **collaborations**
 
-% Education Section
-\section*{Education}
-\vspace{-0.8em}
-\noindent\rule{\textwidth}{0.4pt}
-\vspace{-0.4em}
-\begin{itemize}
-    \item \textbf{VIGNAN'S INSTITUTE OF INFORMATION TECHNOLOGY (B.Tech. Computer Science)} \hfill 2024--2028\\
-    CGPA: 8.6/10
-    \item \textbf{INDIAN INSTITUTE OF TECHNOLOGY, Madras (B.Sc. Data Science and AI)} \hfill 2024--2028\\
-    CGPA: 7.79/10
-\end{itemize}
+---
 
-\vspace{-0.9em}
+## What I Build
 
-% Experience Section
-\section*{Experience}
-\vspace{-0.8em}
-\noindent\rule{\textwidth}{0.4pt}
-\vspace{-0.4em}
-\textbf{LawVriksh — GenAI Intern} \hfill Aug 2025 -- Present
-\vspace{2pt}
-\begin{itemize}
-    \item Built a full \textbf{compliance-aware LLM pipeline} with deterministic prompting, source-grounded generation, and multi-layer verification, reducing hallucination rates by 72\% across legal drafting workflows.
+- **Compliance-aware GenAI Pipelines** — deterministic prompting, source-grounded generation, citation + verification, audit logs  
+- **Agentic Systems** — multi-agent workflows, tool use with **Custom MCP Servers**, safe & traceable reasoning  
+- **Scalable Backends** — REST/gRPC, WebSockets, microservices, caching, CI/CD  
+- **Production UI + Full-Stack Apps** — responsive apps with modern frontend stacks  
 
-    \item Engineered an \textbf{automated fact-checking engine} using retrieval-augmented verification, cosine-similarity scoring, and cross-document conflict detection, improving factual accuracy by 68\%.
+---
 
-    \item Developed a \textbf{reference-manager-driven citation architecture} with summary embeddings, weighted keyword ranking, and auto-generated citation blocks, lowering retrieval latency by 55\%.
+## Tech Stack
 
-    \item Implemented a \textbf{multi-agent system} (ingestion, retrieval, analysis, generation, compliance agents) using MCP servers, enabling controllable tool use, traceable outputs, and safe agentic reasoning.
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-    \item Designed a \textbf{real-time gap analysis engine} that identifies missing arguments, supporting principles, and counter-reasoning using hybrid RAG + rule-based logic, boosting document completeness by 40\%.
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/DRF-0C4B33?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-2DAAE1?style=flat&logo=grpc&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-0B5FFF?style=flat&logo=socketdotio&logoColor=white)
 
-    \item Integrated \textbf{LLM observability modules} to log prompt-output lineage, ensure auditability, and support compliance teams in reviewing AI-generated drafts.
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
-    \item Enhanced legal drafting UX with \textbf{context-aware suggestion generation} (research-grounded vs. context-only modes), achieving 2.3× faster drafting throughput for end-users.
-\end{itemize}
-\vspace{2pt}
-\textbf{Somtax Solutions — AI Intern} \hfill Aug 2025 -- December 2025
-\begin{itemize}
-    \item Designed and deployed multimodal AI agents and a citation engine using custom MCP servers \& APIs, achieving seamless data integration and automation while cutting operational costs by 40\%.
-    \item Orchestrated a scalable microservices architecture with Django \& Docker, implementing CI/CD pipelines that reduced deployment time by 40\% and improved system reliability by 25\% while leading a team of 5 engineers.
-    \item Pioneered a next-generation recommendation engine with Graph Neural Networks (GNNs) + Faiss, replacing legacy systems to boost processing speed by 60\% and optimize cost efficiency.
-\end{itemize}
+### AI/ML + GenAI
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-4B32C3?style=flat&logo=semanticrelease&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-111827?style=flat)
+![FAISS](https://img.shields.io/badge/FAISS-0468D7?style=flat)
+![GNN](https://img.shields.io/badge/Graph%20Neural%20Networks-GNN-7C3AED?style=flat)
 
-\vspace{-0.9em}
+### Databases & DevOps
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 
-% Projects Section
-\section*{Projects}
-\vspace{-0.4em}
-\noindent\rule{\textwidth}{0.2pt}
-\vspace{-0.4em}
-\begin{itemize}
-    \item \textbf{Compliance-Aware LLM Writing & Verification Engine} 
-    \hfill \textit{Python, FastAPI, LangChain, FAISS, Gemini/GPT, Redis, Async IO}
-    \begin{itemize}
-        \item Designed and deployed a multi-stage retrieval and compliance pipeline that reduced hallucinated statements by \textbf{~72\%} through deterministic prompting, reference validation, and hybrid RAG scoring.
-        \item Built an optimized embedding + vector search layer using FAISS and Redis caching, decreasing retrieval latency by \textbf{40–55\%} across high-volume requests.
-        \item Implemented asynchronous FastAPI endpoints and batched inference flows, improving end-to-end response time from \textbf{1.9s → 0.8s}.
-        \item Developed an automated citation-insertion and fact-violation detection module that increased correct citation placement accuracy by \textbf{65\%}.
-        \item Created a context-window reduction algorithm that shrank token consumption by \textbf{~38\%} while preserving relevance via ranked chunking and adaptive windowing.
-        \item Oversaw system profiling, regression tests, and latency audits, enabling stable performance at \textbf{10k+} monthly compliance-check executions.
-    \end{itemize}
+---
 
-    \item \textbf{E-Commerce Website} \hfill \textit{React, Django, MySQL,}
-    \begin{itemize}
-        \item Designed and developed a fully functional e-commerce website with responsive UI.
-        \item Integrated the e-commerce site with third-party APIs for shipping, payment, and tax calculation, automating order fulfillment processes; reduced manual order processing time by 4 hours weekly.
-        \item Utilized Django for backend logic and MySQL for data storage.
-    \end{itemize}
+## Featured Projects
 
-    \item \textbf{Swaply} \hfill \textit{Tailwind CSS, Django, PostgreSQL, JS,MCP Servers,GNN's,Agentic Architect} \href{https://v0-swaply-web-design-3a.vercel.app/chat}{Live}
-    \begin{itemize}
-       \item Developed a coupon trading platform with Django and PostgreSQL, supporting secure transactions, chat, and wallet systems.
-       \item Implemented real-time screen sharing and live coupon verification using WebRTC and Django Channels with WebSockets.
-       \item Designed a mobile-first responsive interface using Tailwind CSS, enabling seamless user experience and profile management.
-    \end{itemize}
-\end{itemize}
+| Project | What it does | Stack |
+|---|---|---|
+| **Compliance‑Aware LLM Writing & Verification Engine** | Multi-stage RAG + verification + citations; optimized retrieval + caching; async APIs | Python, FastAPI, LangChain, FAISS, Redis |
+| **Vibe — MultiAgent No‑Code Website Generator** | AI SaaS for code generation + orchestration + secure auth; modern UI | Next.js, tRPC, Prisma, Postgres, Inngest, Clerk |
+| **Swaply** | Coupon trading platform with chat + wallet; WebRTC screen sharing + live verification | Django, PostgreSQL, WebSockets, WebRTC, Tailwind |
+| **Disease Prediction System** | Predicts diabetes/heart disease/parkinson’s from health inputs | Python, ML, Streamlit |
 
-\vspace{-0.9em}
+> Tip: Replace repo/demo links below once your repositories are public.
+- Code: `https://github.com/prem-cre/<repo>`  
+- Live: `https://<your-demo-link>`
 
-% Skills Section
-\section*{Skills}
-\vspace{-0.8em}
-\noindent\rule{\textwidth}{0.4pt}
-\vspace{-0.4em}
-\begin{itemize}
-    \item \textbf{Programming Languages and Databases:} SQL, Java, MongoDB, Python, PHP, JavaScript, MySQL
-    \item \textbf{Web tools and Frameworks:} HTML, CSS \& ReduxToolkit, Django, Bootstrap, React
-    \item "Led a team of four to develop a YouTube clone, demonstrating excellent teamwork."
-    \item \textbf{AI/ML \& Data Science:} PyTorch, TensorFlow, Scikit-learn
-    \item \textbf{Recommendation Systems:} Graph Neural Networks (GNNs), Faiss (vector similarity search)
-    \item \textbf{DevOps \& Infrastructure:} Docker, CI/CD Pipelines, Microservices Architecture, Git/GitHub
-    \item \textbf{APIs \& Backend Development:} Django REST Framework, Custom MCP Servers, REST API design
-\end{itemize}
+---
 
-\vspace{-0.9em}
+## Experience
 
-% Certifications Section
-\section*{Certifications and Achievements}
-\vspace{-0.8em}
-\noindent\rule{\textwidth}{0.4pt}
-\vspace{-0.4em}
-\begin{itemize}
-    \item \textbf{Hacakthon winner of WOW GOOGLE DEVELOPERS GROUP 2025 and finalist in the Gen E-Summit AI Ideathon  }
-    
-\end{itemize}
+### **LawVriksh — GenAI Intern** (Aug 2025 – Present)
+- Built a **compliance-aware LLM pipeline** with deterministic prompting + multi-layer verification, reducing hallucinations by **72%**
+- Engineered **retrieval-augmented fact-checking** with similarity scoring + cross-document conflict detection, improving accuracy by **68%**
+- Developed **citation architecture** + ranking, reducing retrieval latency by **55%**
+- Implemented **multi-agent system** (ingestion/retrieval/analysis/generation/compliance) using **MCP servers**
+- Added **LLM observability** for prompt-output lineage and auditing; improved drafting throughput **2.3×**
 
-\end{document}
+### **Somtax Solutions — Software Engineer (AI) Intern** (Aug 2025 – Dec 2025)
+- Built multimodal agents + citation engine using **Custom MCP Servers & APIs**, cutting operational costs by **40%**
+- Led microservices + CI/CD with **Django & Docker**, reducing deploy time by **40%** and improving reliability by **25%** (team of 5)
+- Built recommendation engine using **GNNs + FAISS**, boosting speed by **60%**
+
+---
+
+## Competitive Programming
+
+- **LeetCode:** `@prem_code` — **123** solved • **1400+** rating  
+- **CodeChef:** `@prem_2007` — **150** solved • **2⭐** (max **1331**)  
+
+---
+
+## Education
+
+- **B.Tech. Computer Science**, Vignan’s Institute of Information Technology (2024–2028) — **CGPA: 8.6/10**
+- **B.Sc. Data Science & AI**, IIT Madras (2024–2028) — **CGPA: 7.79/10**
+
+---
+
+## Achievements & Certifications
+
+- **Hackathon Winner:** WOW — Google Developers Group (2025)  
+- **Finalist:** Gen E‑Summit Ideathon (Top 13)  
+- **Certified System Administrator** (as listed on resume)
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=prem-cre&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prem-cre&layout=compact&theme=tokyonight" alt="Top Languages" />
+
+  <br/>
+
+  <img height="180" src="https://streak-stats.demolab.com?user=prem-cre&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+## Contact
+
+- **Email:** mahantypremkumar2007@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/prem-kumar-mahanty-21b4aa317  
+- **GitHub:** https://github.com/prem-cre  
+
+<p align="center">
+  <i>Building reliable systems at the intersection of backend engineering and GenAI.</i>
+</p>
+
+<!-- Optional (Contribution Snake):
+1) Add the "Snake" GitHub Action to generate the SVG.
+2) Then uncomment and update the link below.
+
+![snake](https://github.com/prem-cre/prem-cre/blob/output/github-contribution-grid-snake.svg)
+-->
