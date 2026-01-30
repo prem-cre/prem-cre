@@ -10,7 +10,7 @@
     <a href="mailto:mahantypremkumar2007@gmail.com">
       <img src="https://img.shields.io/badge/Email-mahantypremkumar2007%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://www.linkedin.com/in/prem-kumar-mahanty-21b4aa317" target="_blank">
+    <a href="https://www.linkedin.com/in/prem-kumar-mahanty-21b4aa317" >
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://github.com/prem-cre" target="_blank">
@@ -24,9 +24,7 @@
     </a>
   </p>
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=prem-cre&style=for-the-badge&color=0e75b6" alt="Profile Views" />
-  </p>
+ 
 </div>
 
 ---
