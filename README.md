@@ -107,7 +107,6 @@
 | **Compliance‑Aware LLM Writing & Verification Engine** | Multi-stage RAG + verification + citations; optimized retrieval + caching; async APIs | Python, FastAPI, LangChain, FAISS, Redis |
 | **Vibe — MultiAgent No‑Code Website Generator** | AI SaaS for code generation + orchestration + secure auth; modern UI | Next.js, tRPC, Prisma, Postgres, Inngest, Clerk |
 | **Swaply** | Coupon trading platform with chat + wallet; WebRTC screen sharing + live verification | Django, PostgreSQL, WebSockets, WebRTC, Tailwind |
-| **Disease Prediction System** | Predicts diabetes/heart disease/parkinson’s from health inputs | Python, ML, Streamlit |
 
 > Tip: Replace repo/demo links below once your repositories are public.
 - Code: `https://github.com/prem-cre/<repo>`  
