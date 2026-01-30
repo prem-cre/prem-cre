@@ -2,7 +2,7 @@
   <h1>Prem Kumar Mahanty</h1>
   <h3>Backend Engineer • Full‑Stack GenAI/ML Developer • Competitive Programmer</h3>
   <p>
-    Computer Science student focused on building intelligent, production-ready systems — from scalable backend APIs and microservices
+    Focused on building intelligent, production-ready systems — from scalable backend APIs and microservices
     to agentic GenAI pipelines (RAG, MCP servers, verification, observability).
   </p>
 
